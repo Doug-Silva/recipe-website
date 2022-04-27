@@ -6,7 +6,7 @@
   </div><br>
 
   <h1>Fruta & Fruto</h1>
-  <p>Site de receitas Fruta & Fruto, desenvolvido através do curso Arquitetura CSS: Descomplicando os problemas, da plataforma Alura</p>
+  <p>Site de receitas Fruta & Fruto, desenvolvido através do curso de CSS: Descomplicando os problemas, da plataforma Alura</p>
 
   <div>
     <a href="https://github.com/Doug-Silva/recipe-website/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" 
